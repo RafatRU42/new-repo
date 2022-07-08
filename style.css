@@ -17,6 +17,7 @@ section{
 .half-width{
     width: 50%;
     padding: 20px;
+    
 }
 .half-width img{
     width: 80%;
@@ -34,4 +35,18 @@ section{
 }
 .second-banner{
     background-image: url(bgimage/bgimage5.png.png);
+}
+.experience{
+    display: flex;
+    
+}
+.rafat{
+    box-shadow: 10px 10px greenyellow;
+    width: 40%;
+}
+.rasan{
+    display: flex;
+}
+footer p{
+    text-align: center;
 }
